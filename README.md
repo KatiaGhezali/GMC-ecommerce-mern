@@ -2,6 +2,14 @@
 
 A full-stack e-commerce application for browsing and purchasing products. NovaStore is built with the MERN stack and includes product management, user authentication, shopping cart functionality, and order processing.
 
+## Live Demo
+
+**Frontend:** [NovaStore](https://novastore-rho.vercel.app/)
+
+**Backend API:** [NovaStore API](https://novastore-backend-ot5u.onrender.com/)
+
+The application is deployed using Vercel (frontend) and Render (backend), with MongoDB Atlas for database hosting.
+
 ## Screenshots
 
 ### Home Page
